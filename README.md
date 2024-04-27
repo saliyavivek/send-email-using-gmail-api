@@ -11,4 +11,4 @@ Prerequisite:
 Before running any of the following steps. Make sure you run `npm install` to install any dependencies needed for this project. 
 
 
-Run `npm start` to send an email.
+Run `node app.js` to send an email.
