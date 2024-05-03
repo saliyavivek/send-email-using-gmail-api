@@ -2,8 +2,6 @@
 
 # Send email with Gmail - Nodemailer
 
-How to send an email with your personal gmail account using Nodemailer
-
 Prerequisite:
 - Nodejs (Installed)
 
